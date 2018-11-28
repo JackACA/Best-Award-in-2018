@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://s3.envato.com/files/233620902/Award%20Background%20Preview.jpg");
+}
+h1 {
+     font-family: 'Anton', sans-serif;
+     text-align: center;
+     color: red;
+}
+.Movie {
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    color: blue;
+}
+img {
+    width: 150px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid green;
+}
+.Artist {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+.Music {
+    text-align: center;
+    font-family: 'Ranga', cursive;
+    color: #e86430;
+}
+.Game {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: #eddf1a;
+}
